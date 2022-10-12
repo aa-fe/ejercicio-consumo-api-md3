@@ -91,3 +91,12 @@ footer#pagination {
     /* tac */
     text-align: center;
 }
+
+.character-detail .image {
+    height: 20rem;
+    
+}
+
+img {
+    max-height: 100%;
+}
